@@ -1,8 +1,8 @@
-- 👋 Olá, eu sou a @thauanyddaf
+- 👋 Olá, eu sou a @DiasThauany
 - 👀 Estou interessada em aprender programação
-- 🌱  Atualmente estou aprendendo JS
+- 🌱  Atualmente estou no Bootcamp Santander Code Girls
 - 💞️Procuro colaborar no que eu puder
-- 📫 Podem me contactar através do instagram @thauanydiias
+- 📫 Podem me contactar através do linkedin.com/in/thauany-dias
 
 <!---
 thauanyddaf/thauanyddaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
