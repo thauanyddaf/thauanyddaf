@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou a @DiasThauany
 - 👀 Estou interessada em aprender programação
-- 🌱  Atualmente estou no Bootcamp Santander Code Girls
-- 💞️Procuro colaborar no que eu puder
+- 🌱  Atualmente estou me aprimorando com a Alura
 - 📫 Podem me contactar através do linkedin.com/in/thauany-dias
 
 <!---
